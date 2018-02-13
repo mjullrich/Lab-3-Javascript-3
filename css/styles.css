@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+    margin-top: auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(255, 0, 13);
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 60px;
+    color: darkgreen;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(40, 0, 100);
+    text-align: center;
+    font-weight: bold;
+}
